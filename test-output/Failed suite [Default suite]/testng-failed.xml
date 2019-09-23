@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Default suite]]">
+  <test thread-count="5" name="Default test(failed)(failed)">
+    <classes>
+      <class name="com.webappsecurity.tests.AccountActivityTest">
+        <methods>
+          <include name="initialize"/>
+          <include name="setUp"/>
+          <include name="adddata"/>
+          <include name="verify_date"/>
+          <include name="verify_description"/>
+          <include name="verify_amount"/>
+          <include name="verify_typeoftrans"/>
+          <include name="exit"/>
+        </methods>
+      </class> <!-- com.webappsecurity.tests.AccountActivityTest -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->

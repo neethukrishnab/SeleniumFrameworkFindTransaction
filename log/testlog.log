@@ -1,0 +1,142 @@
+2018-11-04 07:14:48,357 - Google -INFO - Browser Opened
+2018-11-04 07:14:49,956 - Google -INFO - Url opened
+2018-11-04 07:14:50,025 - Google -INFO - keyword type
+2018-11-24 14:38:14,520 - TestBase -INFO - signin button clicked
+2019-01-10 17:38:50,850 - TestBase -INFO - signin button clicked
+2019-01-10 17:40:13,715 - TestBase -INFO - signin button clicked
+2019-01-10 17:42:41,569 - TestBase -INFO - signin button clicked
+2019-01-10 17:43:03,979 - TestBase -INFO - signin button clicked
+2019-01-12 20:26:23,070 - TestBase -INFO - signin button clicked
+2019-01-12 20:27:15,852 - TestBase -INFO - signin button clicked
+2019-01-12 20:28:14,853 - TestBase -INFO - signin button clicked
+2019-01-12 20:28:36,622 - TestBase -INFO - signin button clicked
+2019-09-23 16:44:20,166 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 16:44:22,405 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 16:44:39,651 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 16:44:41,828 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 16:44:57,725 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 16:44:59,841 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 16:45:02,250 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 16:45:04,387 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 16:45:04,566 - AccountActivityTest.class -INFO - Verified whether to and from date is entered or not
+2019-09-23 16:45:04,602 - AccountActivityTest.class -INFO - Verified whether the from and to amount is entered or not
+2019-09-23 16:45:04,749 - AccountActivityTest.class -INFO - Verified the type of transaction
+2019-09-23 16:54:25,391 - AccountFindTrans.class -INFO - Page Factory elements are initialized
+2019-09-23 16:54:30,735 - AccountFindTrans.class -INFO - Clicked in Account Activity tab
+2019-09-23 16:54:30,823 - AccountFindTrans.class -INFO - Clicked in Find transaction tab
+2019-09-23 16:54:34,151 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 16:54:45,173 - AccountFindTrans.class -INFO - From date is picked from the date picker
+2019-09-23 16:54:51,257 - AccountFindTrans.class -INFO - To date is picked from the date picker
+2019-09-23 16:54:54,259 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 16:54:56,384 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 16:54:56,385 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 16:54:58,743 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 16:55:03,129 - AccountFindTrans.class -INFO - From date is picked from the date picker
+2019-09-23 16:55:10,572 - AccountFindTrans.class -INFO - To date is picked from the date picker
+2019-09-23 16:55:13,572 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 16:55:15,669 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 16:55:15,670 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 16:55:18,076 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 16:55:22,501 - AccountFindTrans.class -INFO - From date is picked from the date picker
+2019-09-23 16:55:28,645 - AccountFindTrans.class -INFO - To date is picked from the date picker
+2019-09-23 16:55:31,646 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 16:55:33,770 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 16:55:33,770 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 16:55:36,168 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 16:55:36,169 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 16:55:38,296 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 16:55:38,297 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 16:55:38,587 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 16:55:38,587 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 16:55:40,646 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 16:55:40,647 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 16:55:40,820 - AccountFindTrans.class -INFO - checked whether the result date is between the start and the ned date
+2019-09-23 16:55:40,820 - AccountActivityTest.class -INFO - Verified whether to and from date is entered or not
+2019-09-23 16:55:40,857 - AccountFindTrans.class -INFO - Amount is verified
+2019-09-23 16:55:41,003 - AccountActivityTest.class -INFO - Verified the type of transaction
+2019-09-23 16:58:26,726 - AccountFindTrans.class -INFO - Page Factory elements are initialized
+2019-09-23 16:58:32,057 - AccountFindTrans.class -INFO - Clicked in Account Activity tab
+2019-09-23 16:58:32,141 - AccountFindTrans.class -INFO - Clicked in Find transaction tab
+2019-09-23 16:58:35,456 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 16:58:46,429 - AccountFindTrans.class -INFO - From date is picked from the date picker
+2019-09-23 16:58:52,584 - AccountFindTrans.class -INFO - To date is picked from the date picker
+2019-09-23 16:58:55,584 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 16:58:57,707 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 16:58:57,707 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 16:59:00,072 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 16:59:04,368 - AccountFindTrans.class -INFO - From date is picked from the date picker
+2019-09-23 16:59:11,762 - AccountFindTrans.class -INFO - To date is picked from the date picker
+2019-09-23 16:59:14,762 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 16:59:16,893 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 16:59:16,893 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 16:59:19,253 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 16:59:23,702 - AccountFindTrans.class -INFO - From date is picked from the date picker
+2019-09-23 16:59:29,862 - AccountFindTrans.class -INFO - To date is picked from the date picker
+2019-09-23 16:59:32,862 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 16:59:34,975 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 16:59:34,976 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 16:59:37,274 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 16:59:37,275 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 16:59:39,401 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 16:59:39,402 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 16:59:39,555 - AccountFindTrans.class -INFO - checked whether the result date is between the start and the ned date
+2019-09-23 16:59:39,556 - AccountActivityTest.class -INFO - Verified whether to and from date is entered or not
+2019-09-23 16:59:39,594 - AccountActivityTest.class -INFO - Verified whether the from and to amount is entered or not
+2019-09-23 16:59:39,739 - AccountFindTrans.class -INFO - Deposit amount is checked and is verified
+2019-09-23 16:59:39,739 - AccountActivityTest.class -INFO - Verified the type of transaction
+2019-09-23 17:01:26,613 - AccountFindTrans.class -INFO - Page Factory elements are initialized
+2019-09-23 17:01:32,121 - AccountFindTrans.class -INFO - Clicked in Account Activity tab
+2019-09-23 17:01:32,215 - AccountFindTrans.class -INFO - Clicked in Find transaction tab
+2019-09-23 17:01:35,530 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 17:01:46,448 - AccountFindTrans.class -INFO - From date is picked from the date picker
+2019-09-23 17:01:52,588 - AccountFindTrans.class -INFO - To date is picked from the date picker
+2019-09-23 17:01:55,589 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 17:01:57,699 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 17:01:57,700 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 17:02:00,071 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 17:02:04,393 - AccountFindTrans.class -INFO - From date is picked from the date picker
+2019-09-23 17:02:11,813 - AccountFindTrans.class -INFO - To date is picked from the date picker
+2019-09-23 17:02:14,814 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 17:02:16,933 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 17:02:16,934 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 17:02:19,386 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 17:02:23,818 - AccountFindTrans.class -INFO - From date is picked from the date picker
+2019-09-23 17:02:29,962 - AccountFindTrans.class -INFO - To date is picked from the date picker
+2019-09-23 17:02:32,963 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 17:02:35,093 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 17:02:35,094 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 17:02:37,474 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 17:02:37,475 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 17:02:39,595 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 17:02:39,596 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 17:02:39,793 - AccountFindTrans.class -INFO - checked whether the result date is between the start and the ned date
+2019-09-23 17:02:39,793 - AccountActivityTest.class -INFO - Verified whether to and from date is entered or not
+2019-09-23 17:02:39,828 - AccountActivityTest.class -INFO - Verified whether the from and to amount is entered or not
+2019-09-23 17:02:39,971 - AccountFindTrans.class -INFO - Deposit amount is checked and is verified
+2019-09-23 17:02:39,971 - AccountActivityTest.class -INFO - Verified the type of transaction
+2019-09-23 17:03:52,734 - AccountFindTrans.class -INFO - Page Factory elements are initialized
+2019-09-23 17:03:58,002 - AccountFindTrans.class -INFO - Clicked in Account Activity tab
+2019-09-23 17:03:58,081 - AccountFindTrans.class -INFO - Clicked in Find transaction tab
+2019-09-23 17:04:01,367 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 17:04:12,458 - AccountFindTrans.class -INFO - From date is picked from the date picker
+2019-09-23 17:04:18,591 - AccountFindTrans.class -INFO - To date is picked from the date picker
+2019-09-23 17:04:21,593 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 17:04:23,709 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 17:04:23,710 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 17:04:26,091 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 17:04:30,487 - AccountFindTrans.class -INFO - From date is picked from the date picker
+2019-09-23 17:04:37,923 - AccountFindTrans.class -INFO - To date is picked from the date picker
+2019-09-23 17:04:40,924 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 17:04:43,025 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 17:04:43,026 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 17:04:45,420 - AccountFindTrans.class -INFO - Values are entered into different fields
+2019-09-23 17:04:49,808 - AccountFindTrans.class -INFO - From date is picked from the date picker
+2019-09-23 17:04:55,940 - AccountFindTrans.class -INFO - To date is picked from the date picker
+2019-09-23 17:04:58,941 - AccountActivityTest.class -INFO - Fetched one row from excel and added t the fields
+2019-09-23 17:05:01,094 - AccountFindTrans.class -INFO - Clicked in find button and scrolled down the screen for results
+2019-09-23 17:05:01,095 - AccountActivityTest.class -INFO - Clicked in Find Button
+2019-09-23 17:05:01,252 - AccountFindTrans.class -INFO - checked whether the result date is between the start and the ned date
+2019-09-23 17:05:01,253 - AccountActivityTest.class -INFO - Verified whether to and from date is entered or not
+2019-09-23 17:05:01,294 - AccountActivityTest.class -INFO - Verified whether the from and to amount is entered or not
+2019-09-23 17:05:01,448 - AccountFindTrans.class -INFO - Deposit amount is checked and is verified
+2019-09-23 17:05:01,448 - AccountActivityTest.class -INFO - Verified the type of transaction
